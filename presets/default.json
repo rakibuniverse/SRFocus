@@ -39,11 +39,15 @@
     "default_aspect_ratio": "1216*832",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/Rakibuniverse.V2.safetensors?download=true"
+        "Rakibuniverse.V2.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/Rakibuniverse.V2.safetensors?download=true"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+    },
+        "embeddings_downloads": {},
+    "lora_downloads": {
+        "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
     },
     "previous_default_models": [
         "Rakibuniverse.V2.safetensors",
