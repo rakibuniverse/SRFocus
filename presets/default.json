@@ -36,7 +36,7 @@
         "Fooocus Enhance",
         "Fooocus Sharp"
     ],
-    "default_aspect_ratio": "1152*896",
+    "default_aspect_ratio": "1216*832",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/Rakibuniverse.V2.safetensors?download=true"
@@ -47,9 +47,5 @@
     },
     "previous_default_models": [
         "Rakibuniverse.V2.safetensors",
-        "juggernautXL_version7Rundiffusion.safetensors",
-        "juggernautXL_v7Rundiffusion.safetensors",
-        "juggernautXL_version6Rundiffusion.safetensors",
-        "juggernautXL_v6Rundiffusion.safetensors"
     ]
 }
